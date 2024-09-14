@@ -1,0 +1,37 @@
+{
+  "name": "VADCoreESP32",
+  "keywords": "vad esp, VADCoreESP32, esp32 voice, esp32 vad",
+  "description": "A library for implementing voice activity detection for various application.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/TheZeroHz/VADCoreESP32.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Rakib Hasan",
+      "email": "rakibhasan01316980149@gmail.com",
+      "maintainer": true
+    }
+    {
+      "name": "Enrique Condes",
+      "url": "https://github.com/kosme",
+      "email": "enrique@shapeoko.com"
+    },
+    {
+      "name": "Didier Longueville",
+      "url": "http://www.arduinoos.com/",
+      "email": "contact@arduinoos.com"
+    },
+    {
+      "name": "Bim Overbohm",
+      "url": "https://github.com/HorstBaerbel",
+      "email": "bim.overbohm@googlemail.com"
+    }
+  ],
+  "version": "1.0.2",
+  "frameworks": ["arduino","mbed","espidf"],
+  "platforms": "*",
+  "headers": "VADCoreESP32.h"
+}

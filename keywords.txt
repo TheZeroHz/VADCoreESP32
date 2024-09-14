@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For arduinoFFT
+#######################################
+
+#######################################
+# Datatypes	(KEYWORD1)
+#######################################
+
+VADCoreESP32	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+i2sInit	KEYWORD2
+start	KEYWORD2
+getState	KEYWORD2
+setCore	KEYWORD2
+setPriority	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+VAD_VOICE	LITERAL1
+VAD_SILENCE	LITERAL1
