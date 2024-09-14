@@ -5,10 +5,8 @@
 # VADCoreESP32
 
 **Version:** 1.0.2  
-**Author:** Rakib Hasan <rakibhasan01316980149@gmail.com>  
-**Maintainer:** Rakib Hasan <rakibhasan01316980149@gmail.com>  
-**Category:** Data Processing  
-**URL:** [GitHub Repository](https://github.com/TheZeroHz/VADCoreESP32)  
+**Author:** Rakib Hasan 
+**Category:** Audio Data Processing  
 
 ## Overview
 
