@@ -101,6 +101,6 @@ void loop() {
 
 ## License
 
-This library is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+This library is released under the MIT License. See the [LICENSE](LICENSE) file for details.https://chatgpt.com/share/66e75389-7340-8004-a16e-7e6a9af3ecbf
 
 ---
